@@ -1,5 +1,5 @@
 # Data Science Salary Prediction 2023
-This repository contains a Jupyter Notebook file and a university report PDF for the data science salary prediction project. The project aims to predict salaries in the data science field based on various factors.
+This repository contains a Jupyter Notebook file and a university report PDF for the data science salary prediction project. The project aims to predict salaries in the data science field based on various factors. Note: This was my first foray into data science and is a very basic interpretation of the dataset
 
 ## Repository Contents
 CW2.ipynb: Jupyter Notebook file containing the code and analysis for the data science salary prediction project.
